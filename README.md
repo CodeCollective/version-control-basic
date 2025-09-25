@@ -71,6 +71,8 @@ git clone https://github.com/YOUR-USERNAME/version-control-basic.git
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
+If it asks whether you should contribute to either the Parent Repository or for your own purposes, choose Parent Repository
+
 ### 3. Make Your Changes
 Add a file named `yourname.txt` to the `editme` folder. Open this file and add some content that identifies you, such as your name and a brief introduction. You may also add an image `yourimage.jpeg`. Please keep it clean and less than 1MB in size. Your GUI tool (or `git diff`) should show that it has been added. 
 
